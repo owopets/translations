@@ -1,0 +1,10 @@
+{
+  "general": {
+    "pets": "Mascotas",
+    "quests": "Misiones",
+    "about": "Acerca de",
+    "adopted": "Adoptado",
+    "apply": "Aplicar",
+    "cancel": "Cancelar"
+  }
+}

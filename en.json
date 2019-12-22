@@ -1,0 +1,26 @@
+{
+  "general": {
+    "pets": "Pets",
+    "quests": "Quests",
+    "about": "About",
+    "adopted": "Adopted",
+    "apply": "Apply",
+    "cancel": "Cancel",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "pet": {
+    "adoptedDate": "Adopted {0}"
+  },
+  "footer": {
+    "credit": "Website and art created by {0}.",
+    "creditLink": "wonderful people",
+    "copyright": "Copyright 2019, All rights reseved."
+  },
+
+  "lang": {
+    "en": "English",
+    "en_OWO": "Engwish (uwu)",
+    "es": "Español"
+  }
+}
