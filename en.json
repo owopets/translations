@@ -7,10 +7,16 @@
     "apply": "Apply",
     "cancel": "Cancel",
     "login": "Login",
-    "logout": "Logout"
+    "logout": "Logout",
+    "loginProvider": "Choose a login provider.",
+    "username": "Username",
+    "language": "Language"
   },
   "pet": {
     "adoptedDate": "Adopted {0}"
+  },
+  "adopt": {
+    "petName": "Name"
   },
   "footer": {
     "credit": "Website and art created by {0}.",
