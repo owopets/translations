@@ -16,7 +16,12 @@
     "adoptedDate": "Adopted {0}"
   },
   "adopt": {
-    "petName": "Name"
+    "adopt": "Adopt!",
+    "namePlaceholder": "Oh no please be nice to them",
+    "notEnoughExperience": "Woah there! You don't have enough OwOpoints to adopt another pet right now!",
+    "notEnoughMoney": "Woah there! You don't have enough money to adopt another pet right now!",
+    "petName": "Name",
+    "title": "Pet adoption!"
   },
   "footer": {
     "credit": "Website and art created by {0}.",
