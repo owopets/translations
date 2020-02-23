@@ -13,7 +13,8 @@
     "language": "Language"
   },
   "pet": {
-    "adoptedDate": "Adopted {0}"
+    "adoptedDate": "Adopted {0}",
+    "viewDetails": "View details"
   },
   "adopt": {
     "adopt": "Adopt!",
@@ -28,10 +29,21 @@
     "creditLink": "wonderful people",
     "copyright": "Copyright 2019, All rights reseved."
   },
+  "users": {
+    "unsetBio": "This user hasn't set a bio.",
+    "joined": "Joined {0}",
+    "viewProfile": "View profile"
+  },
 
   "lang": {
     "en": "English",
     "en_OWO": "Engwish (uwu)",
     "es": "Español"
+  },
+  "personalities": {
+    "4f558ac1-22ec-4d9c-a758-7d3f39ee233e": "They’re a drug dealer. Cool!"
+  },
+  "locations": {
+    "7080ef44-66e1-40b5-ab3f-5b872ac948a9": "on the dark web"
   }
 }
